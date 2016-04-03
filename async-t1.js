@@ -8,7 +8,7 @@ setTimeout(function() {
 }, 1000);
 console.log("Hello-1");
 
-sleep(10000);
+sleep(5000);
 
 console.log("Hello-2");
 
